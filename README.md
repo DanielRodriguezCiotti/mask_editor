@@ -2,9 +2,7 @@
 
 A simple yet powerful web application for creating and editing binary masks for images.
 
-## Demo
-
-![Demo Video](./demo.mp4)
+![Demo Image](./demo.png)
 
 
 ## Overview
