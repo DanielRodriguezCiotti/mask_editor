@@ -1,0 +1,11 @@
+[project]
+name = "mask-ui"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "gradio==5.22.0",
+    "numpy==2.2.4",
+    "pillow==11.1.0",
+]
