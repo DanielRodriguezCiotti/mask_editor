@@ -1,6 +1,13 @@
+---
+title: mask_editor
+app_file: main.py
+sdk: gradio
+sdk_version: 5.22.0
+---
 # Mask Editor
 
 A simple yet powerful web application for creating and editing binary masks for images.
+Check demo at https://huggingface.co/spaces/drodriguezciotti/mask_editor
 
 ![Demo Image](./demo.png)
 
